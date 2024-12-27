@@ -7,6 +7,7 @@ public class PrintInfo {
 		
 		System.out.println("this is :1 ");
 		
+		System.out.println("this is :1+1 ");
 	}
 
 }
